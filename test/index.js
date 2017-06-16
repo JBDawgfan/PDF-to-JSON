@@ -1,18 +1,4 @@
 
-
-/**
- * Requirements
- */
-
-var chai = require('chai'),
-    assert = require('chai').assert,
-    chaiAsPromised = require('chai-as-promised');
-    resumePdfToJson = require('../index');
-
-
-chai.use(chaiAsPromised);
-
-
 /**
  * Test Descriptions
  */
@@ -28,8 +14,7 @@ describe('resumePdfToJson', function() {
             return data;
         });
 
-    it('The resumePdfToJson(...) promise is fullfilled.', function() {
-        return assert.isFulfilled(p);
+   
     });
 
 
