@@ -3,7 +3,16 @@
 	 */
 	
 
+	var chai = require('chai'),
+	    assert = require('chai').assert,
+	    chaiAsPromised = require('chai-as-promised');
 	var resumePdfToJson = require('../index');
+	
+
+	
+
+	chai.use(chaiAsPromised);
+	
 	
 
 
