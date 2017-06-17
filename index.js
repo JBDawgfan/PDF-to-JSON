@@ -7,7 +7,7 @@
  * Requirements
  */
 
-var Promise = require('promise'),
+var promise = require('promise'),
     extend = require('extend'),
     pdfText = require('pdf-text');
     // jsonfile = require('jsonfile');
@@ -47,8 +47,6 @@ var settings = {
         [' , ', ', ']
     ]
 };
-
-
 /**
  * Functions
  */
