@@ -1,0 +1,5 @@
+URL of JSON formatted resume - https://s3-us-west-2.amazonaws.com/jsonresumecontainer/johnbradley.json
+
+Local copy of JSON formatted resume is /test/John.Bradley.json 
+
+
