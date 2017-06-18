@@ -6,7 +6,7 @@ LinkedIn Resume's are available on your profile under **View Profile As** ▼ **
 ## Installation
 
 ```shell
-npm install resume-pdf-to-json --save-dev
+npm install pdf-to-json --save-dev
 ```
 
 ## Usage
