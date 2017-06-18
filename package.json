@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/expdesignio/resume-pdf-to-json.git"
+    "url": "git+https://https://github.com/JBDawgfan/PDF-to-JSON.git"
   },
   "keywords": [
     "linkedin",
@@ -18,21 +18,18 @@
     "static",
     "templating"
   ],
-  "author": "Devon Hirth <devon@expdesign.io> (//expdesign.io)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/expdesignio/resume-pdf-to-json/issues"
   },
-  "homepage": "https://github.com/expdesignio/resume-pdf-to-json#readme",
+  "homepage": "https://github.com/jbdawgfan/pdf-to-json#readme",
   "dependencies": {
-    "extend": "^3.0.0",
-    "jsonfile": "^2.2.3",
+    "extend": "^3.0.1",
+    "jsonfile": "^2.4.0",
     "pdf-text": "^0.4.0",
-    "promise": "^7.1.1"
+    "promise": "^7.3.0"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
-    "chai-as-promised": "^5.2.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
     "mocha": "^2.3.4"
   }
 }
+
