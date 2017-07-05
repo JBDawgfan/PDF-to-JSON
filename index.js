@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 'use strict';
 
 
