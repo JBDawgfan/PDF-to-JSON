@@ -861,5 +861,4 @@ module.exports = function(path, config) {
 
     return new Promise(p);
 
->>>>>>> 38c7f64c44467d2fd4d59e36129c71e308cb43ee
 };
