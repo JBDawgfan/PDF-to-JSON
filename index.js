@@ -844,7 +844,7 @@ function p(resolve, reject) {
         }
 
         resolve(data);
-}
+}}
 
 
 module.exports = function(path, config) {
