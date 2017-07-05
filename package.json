@@ -23,12 +23,9 @@
     "extend": "^3.0.1",
     "jsonfile": "^2.4.0",
     "pdf-text": "^0.4.0",
-    "promise": "^7.3.0"
-  },
-  "devDependencies": {
+    "promise": "^7.3.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
-    "promise": "^7.1.1",
     "mocha": "^2.3.4"
   },
   "scripts": {
