@@ -428,9 +428,6 @@ module.exports = function(path, config) {
 
     return new Promise(p);
 
-=======
-
-
 'use strict';
 
 
