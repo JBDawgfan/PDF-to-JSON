@@ -3,6 +3,6 @@
   "description": "An app for displaying resumes in json format",
   "repository": "http://github.com/JBDawgfan/PDF-to-JSON",
   "logo": "http://node-js-sample.herokuapp.com/node.svg", 
-  "keywords": [reserved for future use],
+  "keywords": ["experience", "name"],
   "image": "heroku/nodejs"
   }
