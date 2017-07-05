@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
 	 * Requirements
 	 */
@@ -80,4 +79,3 @@
 	        .then(function(data) {
 	            return data;
 	        });*/
->>>>>>> 38c7f64c44467d2fd4d59e36129c71e308cb43ee
