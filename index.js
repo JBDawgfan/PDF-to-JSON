@@ -844,9 +844,6 @@ function p(resolve, reject) {
         }
 
         resolve(data);
-
-    );
-
 }
 
 
